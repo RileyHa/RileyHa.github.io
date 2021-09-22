@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'VT323', monospace;
+    }
+
+a{
+    color:rgb(80, 80, 80);
+    height: 100%;
+}
+
+.mainHeader {
+    background-color: #dce0ff;
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 36px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.mainItem{
+    width: 15%;
+    max-width: 100%;
+    float: left;
+    max-height: 36px;
+    font-weight: lighter;
+    color: rgb(80, 80, 80);
+    background-color: #c5ccff;
+    text-align: center;
+}
+
+body {
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+    color: rgb(80,80,80);
+    background-color: rgb(255, 255, 255);
+}
+
+img{
+    margin: 50px;
+}
+
+.Procedures{
+    margin: 30px;
+    text-align: right;
+}
+
+.Techniques{
+    margin: 30px;
+    text-align: left;
+}
+
+p1{
+    font-size: 60px;
+    font-weight: bolder;
+    color:rgb(51, 0, 117);
+}
+
+p2{
+    font-size: 40px;
+    color:rgb(108, 86, 231);
+
+}
+
+p3{
+    font-weight: normal;
+    font-size:30px;
+    color:rgb(80,80,80);
+    
+}
+
+p4{
+    font-size: 40px;
+    color:rgb(108, 86, 231);
+
+}
+
+p5{
+    font-weight: normal;
+    font-size:30px;
+    color:rgb(80,80,80);
+    
+}
+
+p6{
+    font-size: 40px;
+    color:rgb(108, 86, 231);
+
+}
+
+p7{
+    font-weight: normal;
+    font-size:30px;
+    color:rgb(80,80,80);
+    
+}

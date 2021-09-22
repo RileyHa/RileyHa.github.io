@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'VT323', monospace;
+    }
+
+a{
+    color:rgb(255, 255, 255);
+    height: 100%;
+}
+
+.mainHeader {
+    background-color: #dce0ff;
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 36px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.mainItem{
+    width: 15%;
+    max-width: 100%;
+    float: left;
+    max-height: 36px;
+    font-weight: lighter;
+    color: rgb(80, 80, 80);
+    background-color: #c5ccff;
+    text-align: center;
+}
+
+body {
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+    color: rgb(80,80,80);
+    background-color: rgb(255, 255, 255);
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.searchBar{
+    font-size:60px;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: black;
+    text-align: center;
+    width: 70%;
+    height: 40%;
+    border: 12px #9da5e7;
+    border-style: double;
+    background-color: #ffffff;
+
+}
+
+.fancyTitle{
+    margin: 50px;
+    font-size: 70px;
+    color:rgb(58, 58, 58);
+    text-align: left;
+}
+
+p1{
+    background: linear-gradient(to top, rgb(197, 196, 255) 50%, transparent 50%);
+}
+p2{
+    background: linear-gradient(to top, rgb(184, 183, 255) 50%, transparent 50%);
+}
+p3{
+    background: linear-gradient(to top, rgb(173, 172, 255) 50%, transparent 50%);
+}
+p4{
+    font-weight: bolder;
+    color:rgb(47, 0, 156);
+    background: linear-gradient(to top, rgb(162, 161, 255) 50%, transparent 50%);
+}
+p5{
+    background: linear-gradient(to top, rgb(143, 142, 255) 50%, transparent 50%);
+}
+
+
+video{
+    margin: 30px;
+    border: 10px solid #8874e0;
+    border-radius: 30px;
+    outline: none;
+    
+}
+.explanation{
+    margin-bottom: 150px;
+}
